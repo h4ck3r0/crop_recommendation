@@ -120,10 +120,3 @@ Once the Flask server is running, you can input soil and weather values in the U
 This project is licensed under **GPL-3.0 License**. ([GitHub][2])
 
 ---
-
-## 📌 Citation
-
-If you use this project for research or coursework, please cite it appropriately.
-
----
-
